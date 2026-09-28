@@ -9673,6 +9673,14 @@
       "_korean": ""
     },
     {
+      "_id": "AutoPostPresent_25",
+      "_japanese": "イベント「アイの奔流 AtoZ」延期のお詫びです。",
+      "_english": "",
+      "_traditionalChinese": "",
+      "_simplifiedChinese": "",
+      "_korean": ""
+    },
+    {
       "_id": "Background_Description_1",
       "_japanese": "プロフィールカードで使用できる背景",
       "_english": "",
@@ -43273,72 +43281,8 @@
       "_korean": ""
     },
     {
-      "_id": "LiveStartVoice_2",
-      "_japanese": "大丈夫、ちゃんとできる……",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_3",
-      "_japanese": "が、がんばろう……",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_4",
-      "_japanese": "私の歌は、心の叫びだから！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_5",
-      "_japanese": "準備、できてます……",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
       "_id": "LiveStartVoice_6",
       "_japanese": "それじゃ、始めよっか！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_7",
-      "_japanese": "みんな、いくよ～！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_8",
-      "_japanese": "みんな、準備はいい？",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_9",
-      "_japanese": "遅れちゃダメだからね！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_10",
-      "_japanese": "一番目立つのは～……私！",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -43353,72 +43297,8 @@
       "_korean": ""
     },
     {
-      "_id": "LiveStartVoice_12",
-      "_japanese": "準備できた",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_13",
-      "_japanese": "やりきる",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_14",
-      "_japanese": "たのしみ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_15",
-      "_japanese": "ライブやろ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
       "_id": "LiveStartVoice_16",
       "_japanese": "いつでも始められるよ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_17",
-      "_japanese": "はーい、準備できてまーす",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_18",
-      "_japanese": "みんなやる気だなぁ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_19",
-      "_japanese": "よし、始めよっか",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_20",
-      "_japanese": "いいライブにしようね",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -43433,72 +43313,8 @@
       "_korean": ""
     },
     {
-      "_id": "LiveStartVoice_22",
-      "_japanese": "準備いい？",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_23",
-      "_japanese": "いつも通りやれば大丈夫",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_24",
-      "_japanese": "やるからには本気だから",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_25",
-      "_japanese": "絶対成功させる",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
       "_id": "LiveStartVoice_26",
       "_japanese": "私の想い、全部歌に込めるから",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_27",
-      "_japanese": "ムジカの箱庭は、私が守る……！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_28",
-      "_japanese": "僕の歌声を、貴女に捧げるよ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_29",
-      "_japanese": "我、悲しみを恐れるなかれ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_30",
-      "_japanese": "ようこそ、アベムジカの世界へ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -43513,72 +43329,8 @@
       "_korean": ""
     },
     {
-      "_id": "LiveStartVoice_32",
-      "_japanese": "準備できた。いつでも大丈夫",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_33",
-      "_japanese": "ライブの時間？　わかった",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_34",
-      "_japanese": "我、死を恐れるなかれ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_35",
-      "_japanese": "幕が上がれば、やりきるだけ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
       "_id": "LiveStartVoice_36",
       "_japanese": "時間です、行きましょうか",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_37",
-      "_japanese": "準備は万端、やる気も十分です",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_38",
-      "_japanese": "ここはやはり円陣では？",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_39",
-      "_japanese": "我、恐れる事を恐れるなかれ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_40",
-      "_japanese": "ショウマストゴーオン、ですね",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -43593,72 +43345,8 @@
       "_korean": ""
     },
     {
-      "_id": "LiveStartVoice_42",
-      "_japanese": "アタシの全力、見せてやる",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_43",
-      "_japanese": "にゃむっとやっちゃいますか〜",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_44",
-      "_japanese": "我、愛を恐れるなかれ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_45",
-      "_japanese": "アタシの出番だね",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
       "_id": "LiveStartVoice_46",
       "_japanese": "さぁ、マスカレードを始めましょう",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_47",
-      "_japanese": "忘れられない夢をゲストに——",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_48",
-      "_japanese": "病める時も、健やかなる時も……",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_49",
-      "_japanese": "我、忘却を恐れるなかれ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_50",
-      "_japanese": "それでは参りましょう",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -43673,72 +43361,8 @@
       "_korean": ""
     },
     {
-      "_id": "LiveStartVoice_52",
-      "_japanese": "やっと……歌える！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_53",
-      "_japanese": "一緒に歌ってくれたら嬉しいな",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_54",
-      "_japanese": "歌でおしゃべりしよう！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_55",
-      "_japanese": "ぼくの大好きを伝えたい！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
       "_id": "LiveStartVoice_56",
       "_japanese": "ののののの〜！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_57",
-      "_japanese": "わくわくライブ、ご覧あれ〜！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_58",
-      "_japanese": "ののちゃんのおでましだぞ〜！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_59",
-      "_japanese": "ののちゃんギター、発進！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_60",
-      "_japanese": "やりたいようにやるっ",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -43753,72 +43377,8 @@
       "_korean": ""
     },
     {
-      "_id": "LiveStartVoice_62",
-      "_japanese": "一緒に、楽しみましょう",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_63",
-      "_japanese": "腹ごしらえは済んでますか？",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_64",
-      "_japanese": "脳内で予習は済ませてます",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_65",
-      "_japanese": "打ち上げは焼肉にしましょう！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
       "_id": "LiveStartVoice_66",
       "_japanese": "準備はできてます",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_67",
-      "_japanese": "心頭滅却……！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_68",
-      "_japanese": "一度決めたらやり抜くのみ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_69",
-      "_japanese": "緊張？　してますよ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_70",
-      "_japanese": "努力の成果……ご覧あれ！",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -43833,72 +43393,8 @@
       "_korean": ""
     },
     {
-      "_id": "LiveStartVoice_72",
-      "_japanese": "力入りすぎ。深呼吸して",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_73",
-      "_japanese": "そんな気負わなくていいよ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_74",
-      "_japanese": "ま、何とかなるでしょ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_75",
-      "_japanese": "好きにやろう",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
       "_id": "LiveStartVoice_76",
       "_japanese": "頑張ります",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_77",
-      "_japanese": "始めましょう！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_78",
-      "_japanese": "上手に歌って、上手に弾く",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_79",
-      "_japanese": "みんなを幸せにできますように",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_80",
-      "_japanese": "忘れられない、夜にしましょう",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -43913,72 +43409,8 @@
       "_korean": ""
     },
     {
-      "_id": "LiveStartVoice_82",
-      "_japanese": "ついてきなさい",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_83",
-      "_japanese": "待たせたわね、あたしの出番よ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_84",
-      "_japanese": "あたしがいれば、勝ったも同じね",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_85",
-      "_japanese": "伝説を見せてあげる",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
       "_id": "LiveStartVoice_86",
       "_japanese": "始めよっか",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_87",
-      "_japanese": "いつでもいいよ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_88",
-      "_japanese": "あんま期待しないでね",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_89",
-      "_japanese": "もしかして、緊張してる？",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_90",
-      "_japanese": "ま、気楽に行こうか",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -43993,72 +43425,8 @@
       "_korean": ""
     },
     {
-      "_id": "LiveStartVoice_92",
-      "_japanese": "頑張ろうね！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_93",
-      "_japanese": "よーし、やってやろーっ！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_94",
-      "_japanese": "いいライブになりそう！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_95",
-      "_japanese": "私だって、きっと……！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
       "_id": "LiveStartVoice_96",
       "_japanese": "よろしくお願いします",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_97",
-      "_japanese": "どうぞお手柔らかに",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_98",
-      "_japanese": "楽しみですね♪",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_99",
-      "_japanese": "緊張しちゃいます",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_100",
-      "_japanese": "どんな光を、見せてくれますか？",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -44073,72 +43441,8 @@
       "_korean": ""
     },
     {
-      "_id": "LiveStartVoice_102",
-      "_japanese": "うちのピースな音、聴いてって！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_103",
-      "_japanese": "私たちと思いっきり騒ごう！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_104",
-      "_japanese": "ファミリーの愛、見せちゃうよ！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_105",
-      "_japanese": "私たちの音楽、ブチかまそう！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
       "_id": "LiveStartVoice_106",
       "_japanese": "ほら、さっさと始めてよ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_107",
-      "_japanese": "よそ見しないで、集中",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_108",
-      "_japanese": "練習通りにやるだけでしょ",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_109",
-      "_japanese": "準備、できてるよね？",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_110",
-      "_japanese": "恥ずかしい演奏はしないから",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
@@ -44153,38 +43457,6 @@
       "_korean": ""
     },
     {
-      "_id": "LiveStartVoice_112",
-      "_japanese": "すぅ〜……はぁぁ〜〜……",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_113",
-      "_japanese": "う〜っ、逃げ出したい……！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_114",
-      "_japanese": "落ち着け私の心臓〜……！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_115",
-      "_japanese": "つよつよの私を、イメージ……！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
       "_id": "LiveStartVoice_116",
       "_japanese": "じゃーん！　ちえりの登場です！",
       "_english": "",
@@ -44193,72 +43465,8 @@
       "_korean": ""
     },
     {
-      "_id": "LiveStartVoice_117",
-      "_japanese": "ちえりにだけ、注目ですよ！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_118",
-      "_japanese": "お出迎えの拍手が小さいですっ！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_119",
-      "_japanese": "今からすご〜い演奏しますよ！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_120",
-      "_japanese": "連合トップの力、見せてあげます！",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
       "_id": "LiveStartVoice_121",
       "_japanese": "もう始めるのか？",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_122",
-      "_japanese": "いつでも準備はできている",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_123",
-      "_japanese": "今日はどんな演奏になるのだろう",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_124",
-      "_japanese": "貢献できるよう努めよう",
-      "_english": "",
-      "_traditionalChinese": "",
-      "_simplifiedChinese": "",
-      "_korean": ""
-    },
-    {
-      "_id": "LiveStartVoice_125",
-      "_japanese": "ファミリーの音楽を始めよう",
       "_english": "",
       "_traditionalChinese": "",
       "_simplifiedChinese": "",
