@@ -512,6 +512,20 @@
       "_displaySkillCategories": []
     },
     {
+      "_id": 74,
+      "_nameTextID": "Support_Skill_Name_74",
+      "_descriptionTextFormatID": "Support_Skill_Description_74",
+      "_skillIconID": 7,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 75,
+      "_nameTextID": "Support_Skill_Name_75",
+      "_descriptionTextFormatID": "Support_Skill_Description_75",
+      "_skillIconID": 10,
+      "_displaySkillCategories": []
+    },
+    {
       "_id": 1002,
       "_nameTextID": "Support_Skill_Name_1",
       "_descriptionTextFormatID": "Support_Skill_Description_1",
@@ -801,6 +815,43 @@
       "_nameTextID": "Support_Skill_Name_73",
       "_descriptionTextFormatID": "Support_Skill_Description_73",
       "_skillIconID": 14,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 15071,
+      "_nameTextID": "Support_Skill_Name_15",
+      "_descriptionTextFormatID": "Support_Skill_Description_15",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 60072,
+      "_nameTextID": "Support_Skill_Name_60",
+      "_descriptionTextFormatID": "Support_Skill_Description_60",
+      "_skillIconID": 14,
+      "_displaySkillCategories": [
+        2
+      ]
+    },
+    {
+      "_id": 10073,
+      "_nameTextID": "Support_Skill_Name_10",
+      "_descriptionTextFormatID": "Support_Skill_Description_10",
+      "_skillIconID": 17,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 71074,
+      "_nameTextID": "Support_Skill_Name_71",
+      "_descriptionTextFormatID": "Support_Skill_Description_71",
+      "_skillIconID": 7,
+      "_displaySkillCategories": []
+    },
+    {
+      "_id": 72074,
+      "_nameTextID": "Support_Skill_Name_72",
+      "_descriptionTextFormatID": "Support_Skill_Description_72",
+      "_skillIconID": 10,
       "_displaySkillCategories": []
     }
   ]

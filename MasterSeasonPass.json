@@ -58,6 +58,65 @@
       ],
       "_bannerAsset": "banner_seasonpass_00004",
       "_priority": 4
+    },
+    {
+      "_id": 5,
+      "_nameTextId": "Season_Pass_Name_5",
+      "_descriptionTextId": "Season_Pass_Description_Season_Pass_Name_5",
+      "_levelGroup": 2,
+      "_startAt": "2026/10/18 15:00:00",
+      "_endAt": "2026/10/26 14:59:59",
+      "_recommendationLevelRewardIds": [
+        120,
+        133
+      ],
+      "_bannerAsset": "banner_seasonpass_00005",
+      "_priority": 5
+    },
+    {
+      "_id": 6,
+      "_nameTextId": "Season_Pass_Name_6",
+      "_descriptionTextId": "Season_Pass_Description_Season_Pass_Name_6",
+      "_levelGroup": 3,
+      "_startAt": "2026/10/25 21:00:00",
+      "_endAt": "2026/11/01 20:59:59",
+      "_recommendationLevelRewardIds": [
+        137,
+        141,
+        142,
+        145,
+        150
+      ],
+      "_bannerAsset": "banner_seasonpass_00006",
+      "_priority": 6
+    },
+    {
+      "_id": 7,
+      "_nameTextId": "Season_Pass_Name_7",
+      "_descriptionTextId": "Season_Pass_Description_Season_Pass_Name_7",
+      "_levelGroup": 1,
+      "_startAt": "2026/10/28 12:00:00",
+      "_endAt": "2026/11/28 14:59:59",
+      "_recommendationLevelRewardIds": [
+        170,
+        190
+      ],
+      "_bannerAsset": "banner_seasonpass_00007",
+      "_priority": 7
+    },
+    {
+      "_id": 8,
+      "_nameTextId": "Season_Pass_Name_8",
+      "_descriptionTextId": "Season_Pass_Description_Season_Pass_Name_8",
+      "_levelGroup": 2,
+      "_startAt": "2026/10/28 12:00:00",
+      "_endAt": "2026/11/07 14:59:59",
+      "_recommendationLevelRewardIds": [
+        205,
+        220
+      ],
+      "_bannerAsset": "banner_seasonpass_00008",
+      "_priority": 8
     }
   ]
 }
